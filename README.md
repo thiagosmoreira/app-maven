@@ -1,2 +1,3 @@
-# app-maven
-App maven para teste de pipeline
+# maven-project
+
+Simple Maven Project
