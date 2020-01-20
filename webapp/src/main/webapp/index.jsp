@@ -1,2 +1,2 @@
-<h1> Deploy em Tomcat Server em EC2  </h1>
+<h1> Deploy on Tomcat Server (Ec2) </h1>
 
